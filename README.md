@@ -1,4 +1,4 @@
-# NewtonNexus - Free File Hosting Platform
+# Free File Hosting Platform
 
 A complete file hosting web application built with PHP, HTML, CSS, and JavaScript. Designed specifically for InfinityFree hosting compatibility.
 
