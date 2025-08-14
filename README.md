@@ -12,6 +12,8 @@ A complete file hosting web application built with PHP, HTML, CSS, and JavaScrip
 - **Responsive Design**: Mobile-friendly interface with Bootstrap 5
 - **Security**: Secure file handling with proper validation
 
+ ## Demo = https://nghms.rf.gd/?i=1
+
 ## InfinityFree Hosting Setup
 
 ### Step 1: Download Files
