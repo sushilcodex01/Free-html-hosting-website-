@@ -13,6 +13,7 @@ A complete file hosting web application built with PHP, HTML, CSS, and JavaScrip
 - **Security**: Secure file handling with proper validation
 
  ## Demo = https://nghms.rf.gd/?i=1
+  ## Replit link = https://replit.com/@lovico5601/Free-html-hosting-php-hosting
 
 ## InfinityFree Hosting Setup
 
